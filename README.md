@@ -1,2 +1,2 @@
 # msdsgo
-MSDS 431 Data Engineering with Go
+Interested in Go for data science? Check out [Learning Go for Data Science](https://msdsgo.netlify.app/).
